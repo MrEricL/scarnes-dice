@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Scarne\'s Dice</string>
+    <string name="roll_button">Roll</string>
+    <string name="hold_button">Hold</string>
+    <string name="reset_button">Reset</string>
+    <string name="user_score">Your Score: </string>
+    <string name="comp_score">Computer score: </string>
+</resources>
